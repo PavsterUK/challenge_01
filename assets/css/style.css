@@ -47,10 +47,6 @@ a {
   text-decoration: none;
 }
 
-p {
-  font-size: 16px;
-}
-
 .hero {
   height: 800px;
   width: 100%;
@@ -70,10 +66,32 @@ p {
   margin-left: 25px;
 }
 
+p {
+  font-size: 16px;
+}
+
 .content {
   width: 75%;
   display: inline-block;
   margin-left: 20px;
+}
+
+.content article {
+  margin-bottom: 20px;
+  padding: 50px;
+  height: 300px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  background-color: #0072bb;
+  color: #ffffff;
+}
+
+.content article img {
+  max-height: 200px;
+}
+
+.content article h2 {
+  margin-bottom: 20px;
+  font-size: 36px;
 }
 
 .benefits {
@@ -101,24 +119,6 @@ p {
   display: block;
   margin: 10px auto;
   max-width: 150px;
-}
-
-.content article {
-  margin-bottom: 20px;
-  padding: 50px;
-  height: 300px;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-  background-color: #0072bb;
-  color: #ffffff;
-}
-
-.content article img {
-  max-height: 200px;
-}
-
-.content article h2 {
-  margin-bottom: 20px;
-  font-size: 36px;
 }
 
 footer {
