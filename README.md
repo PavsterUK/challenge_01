@@ -1,6 +1,6 @@
 # Module_01 Challenge
 
-### Main ccomplished tasks
+### Main accomplished tasks
 * Modified HTML to more appropriate semantic elements
 * Added "alt" attribute to <img> elements
 * Altered CSS to suit new elements
